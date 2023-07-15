@@ -1,1 +1,1 @@
-# SPOTIFY-CLONE
+I created a Spotify clone using HTML, CSS, and JavaScript. The clone replicates the main features and design elements of the original Spotify application. It includes functionality such as searching and playing music, creating playlists, and displaying album covers. The project involved utilizing HTML for the structure, CSS for styling, and JavaScript for interactivity and dynamic content. Overall, the Spotify clone provides a similar user experience to the real Spotify, showcasing my skills in web development.
